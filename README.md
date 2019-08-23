@@ -1,2 +1,0 @@
-# kelseymcbratney.dev
- Portfolio Website
